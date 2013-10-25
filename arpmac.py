@@ -10,8 +10,8 @@
 # Additionally, it requires root privileges to run in order to craft and send
 # packets over the wire.
 #
-# Don't forget to edit nmap.py to indicate the location of your nmap
-# fingerprinting file.
+# Don't forget to edit nmap.py (installed with Scapy module) to indicate the location of your nmap
+# fingerprinting file. If you don't have one, download it from here: http://nmap.org/dist-old/nmap-4.22SOC8.tgz
 
 ##############################
 #                            #
