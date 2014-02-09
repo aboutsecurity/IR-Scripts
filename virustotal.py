@@ -1,4 +1,4 @@
-# Checking suspicious files in a directory against Virustotal Database using McAfee API.
+# Checking suspicious files in a directory against Virustotal Database.
 
 ##############################
 #                            #
@@ -6,7 +6,6 @@
 #                            #
 ##############################
 
-# check http://code.google.com/p/python-security-tools/source/browse/applications/analysis/virustotal/virustotal.py
 
 import requests,os,sys,hashlib,pprint
 
